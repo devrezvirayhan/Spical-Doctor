@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Dr. Anderson",
+        "specilist" : "Midicine",
+        "img" : "https://i.ibb.co/z5TKfrN/img-3.jpg",
+        "title" : "M.B.B.S FCPS",
+        "dis" : "Dr. Anderson is also one of the best doctors in Pediatric Anesthesiologist around the world. He received his A.B. with Honors in Biochemistry from Harvard University and Doctor of Medicine.",
+        "id" : "1"
+
+    },
+    {
+        "name": "Dr. NiK",
+        "specilist" : "Surgary",
+        "img" : "https://i.ibb.co/jJNh9Ny/img-6.jpg",
+        "title" : "MBBS USA",
+        "dis" : "Dr. NiK is also one of the best doctors of Psychiatry. She treats the problems of depressions and mind-related problems. She is considered world’s best doctor by many.",
+        "id" : "2"
+
+    },
+    {
+        "name": "Dr. Taslim",
+        "specilist" : "Broken",
+        "img" : "https://i.ibb.co/9wK5r3h/img-2.jpg",
+        "title" : "Broken",
+        "dis" : "Dr. Taslim is a famous Indian cardiovascular and cardiothoracic surgeon. He was born on August 12, 1946, in Delhi, India",
+        "id" : "3"
+
+    },
+    {
+        "name": "Dr. Zeff",
+        "specilist" : "Neurologist",
+        "img" : "https://i.ibb.co/dtcTGPM/img-5.jpg",
+        "title" : "Head Of Neurologist Usa",
+        "dis" : "Dr. Zeff is a famous doctor of Neuro. He is an Associate Professor and Chief of the Spine Section in the Department of Neurosurgery",
+        "id" : "4"
+
+    },
+    {
+        "name": "Dr. Karina",
+        "specilist" : "Midicine",
+        "img" : "https://i.ibb.co/pbRYhJ5/img-4.jpg",
+        "title" : "MBBS",
+        "dis" : "Dr. Karina is a well-known Gynecologist/Oncologist. His specialization field is Oncologist of Obstetrician and Gynecology. He is also considered to be one of the best doctors of Oncology in the world",
+        "id" : "5"
+
+    },
+    {
+        "name": "Dr. Nagiedds",
+        "specilist" : "Herd",
+        "img" : "https://i.ibb.co/fxwbcWf/img-7.jpg",
+        "title" : "FCPS",
+        "dis" : "Dr. Nagiedds is also one of the best-known doctors of Pediatricians in the world. He graduated from the University of Miami Leonard M Miller School of Medicine in 1972.",
+        "id" : "6"
+
+    }
+]
